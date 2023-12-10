@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    '66455':
+      email: 1123@
+      name: '455545'
+      password: $2b$12$9Uq9d5FfMczSjj9GIV03zObG5iSLOGfCuX4Yqrb.fpEu7Khfo44nW
+    abc:
+      email: 1@gmail.com
+      name: abc
+      password: $2b$12$xqUffHWb38OMP1pwzfvkeuHZqwaFXm9CsoOInQC1zh/4mxsNHiNwG
+    abcd:
+      email: abc@gmail.com
+      name: abcd
+      password: $2b$12$jCwjLVBi9saE1004rLSANOlxOkmcZV9SuAyCDUjkiA6hTjQmeCeVG
+    admin1:
+      email: abcde@gmail.com
+      name: Amartya
+      password: $2b$12$yZPY5Q29HBSpJ0P3MWZjUuNnZbpbyUDpooiroInWc3oiA9LUFGCVu
+    admin2:
+      email: abc123@gmail.com
+      name: Akshat
+      password: $2b$12$jO4Xj4p8GtV745y.Ta6WI.T5GqVkXnZhaDYS/zggR7d9uRaN1kzc2
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: null
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: null
+preauthorized:
+  emails:
+  - melsby@gmail.com
